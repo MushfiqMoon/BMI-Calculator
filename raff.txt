@@ -1,0 +1,41 @@
+    <div class="container">
+        <div class="row">
+            <div class="col s12 m6 ">
+                <div class="row">
+                    <div class="card hoverable">
+
+                        <div class="card-image">
+                            <img src="./images/bnr2.jpg">
+                            <span class="card-title "><b>BMI Calculator</b></span>
+                        </div>
+
+                        <div class="card-content">
+                            <div class="input-field col s12">
+                                <i class="fas fa-male prefix "></i>
+                                <input type="text" id="height" class="autocomplete">
+                                <label for="height">Height</label>
+                            </div>
+                            <div class="input-field col s12">
+                                <i class="fas fa-weight prefix"></i>
+                                <input type="number" id="weight" class="autocomplete">
+                                <label for="weight">Weight</label>
+                            </div>
+
+                            <a class="waves-effect waves-light btn-small">
+                                <i class="fas fa-check left"></i>DONE</a>
+
+                        </div>
+
+                        <!-- <div class="card-action">
+                            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illo, dicta! Animi, voluptas maiores! Ex magni, rem soluta eveniet, modi quidem ducimus nesciunt sint corporis vel, provident possimus ullam repellendus accusamus.</p>
+                        </div> -->
+
+
+                    </div>
+
+                </div>
+
+
+            </div>
+        </div>
+    </div>
